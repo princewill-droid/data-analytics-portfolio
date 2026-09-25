@@ -1,0 +1,21 @@
+Date,Product,Category,Quantity Sold,Cost Price,Selling Price,Revenue,Profit
+2026-09-01,Paracetamol,Analgesic,20,150,250,5000,2000
+2026-09-01,Amoxicillin,Antibiotic,10,800,1200,12000,4000
+2026-09-02,Vitamin C,Supplement,15,300,500,7500,3000
+2026-09-02,ORS,Rehydration,12,200,350,4200,1800
+2026-09-03,Ibuprofen,Analgesic,8,400,650,5200,2000
+2026-09-03,Omeprazole,Antacid,10,500,800,8000,3000
+2026-09-04,Paracetamol,Analgesic,25,150,250,6250,2500
+2026-09-04,Amoxicillin,Antibiotic,7,800,1200,8400,2800
+2026-09-05,Vitamin C,Supplement,20,300,500,10000,4000
+2026-09-05,ORS,Rehydration,18,200,350,6300,2700
+2026-09-06,Ibuprofen,Analgesic,12,400,650,7800,3000
+2026-09-06,Omeprazole,Antacid,14,500,800,11200,4200
+2026-09-07,Paracetamol,Analgesic,30,150,250,7500,3000
+2026-09-07,Amoxicillin,Antibiotic,9,800,1200,10800,3600
+2026-09-08,Vitamin C,Supplement,18,300,500,9000,3600
+2026-09-08,ORS,Rehydration,15,200,350,5250,2250
+2026-09-09,Ibuprofen,Analgesic,10,400,650,6500,2500
+2026-09-09,Omeprazole,Antacid,11,500,800,8800,3300
+2026-09-10,Paracetamol,Analgesic,22,150,250,5500,2200
+2026-09-10,Amoxicillin,Antibiotic,8,800,1200,9600,3200
